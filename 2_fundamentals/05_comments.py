@@ -9,5 +9,3 @@ though technically they are strings that are not assigned to anything.
 """
 
 # Indentation matters in Python - it defines code blocks.
-if True:
-    print("indented block")

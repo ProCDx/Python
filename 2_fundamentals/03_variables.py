@@ -1,8 +1,8 @@
 # Variables
 # A variable is a name that refers to a value. Created by assigning with =.
 
-name = "Roger"
-age = 8
+name = "projay"
+age = 21
 print(name, age)
 
 # Rules: letters, numbers and _ only; cannot start with a number;
